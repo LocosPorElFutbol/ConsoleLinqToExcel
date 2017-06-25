@@ -35,3 +35,6 @@ C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Conso
 C:\Leo\Dropbox\Desarrollos\Librerias\ImportarExcel\ConsoleLinqToExcel\ConsoleLinqToExcel\bin\Debug\ConsoleLinqToExcel.exe.config
 C:\Leo\Dropbox\Desarrollos\Librerias\ImportarExcel\ConsoleLinqToExcel\ConsoleLinqToExcel\obj\x86\Debug\ConsoleLinqToExcel.exe
 C:\Leo\Dropbox\Desarrollos\Librerias\ImportarExcel\ConsoleLinqToExcel\ConsoleLinqToExcel\obj\x86\Debug\ConsoleLinqToExcel.pdb
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\ConsoleLinqToExcel\bin\Debug\ConsoleLinqToExcel.exe.config
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\ConsoleLinqToExcel\obj\x86\Debug\ConsoleLinqToExcel.exe
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\ConsoleLinqToExcel\obj\x86\Debug\ConsoleLinqToExcel.pdb

@@ -26,6 +26,7 @@ namespace ConsoleLinqToExcel
         {
             try
             {
+
                 ExcelBusiness excelBusiness = new ExcelBusiness("C:\\Leo\\Temp\\BASE DE DATOS - CUMPLEAÑOS (ACTUAL)Import.xlsx");
                 List<PersonaExcel> lista = (List<PersonaExcel>)excelBusiness.RetornarRowExcel("BASE TOTAL DE CLIENTES CUMPLE");
 

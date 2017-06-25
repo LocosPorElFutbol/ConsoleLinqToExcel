@@ -11,3 +11,16 @@ C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Busin
 C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Business\obj\Debug\BusinessExcel.csprojResolveAssemblyReference.cache
 C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Business\obj\Debug\Business.dll
 C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Business\obj\Debug\Business.pdb
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\bin\Debug\Business.dll.config
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\bin\Debug\Business.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\bin\Debug\Business.pdb
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\bin\Debug\Entitites.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\bin\Debug\Repositories.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\bin\Debug\LinqToExcel.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\bin\Debug\Remotion.Data.Linq.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\bin\Debug\Entitites.pdb
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\bin\Debug\Repositories.pdb
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\bin\Debug\LinqToExcel.xml
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\obj\Debug\BusinessExcel.csprojResolveAssemblyReference.cache
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\obj\Debug\Business.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Business\obj\Debug\Business.pdb

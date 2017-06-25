@@ -11,3 +11,16 @@ C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entit
 C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\obj\Debug\Entitites.dll
 C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\obj\Debug\Entitites.pdb
 C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\obj\Debug\EntititesExcel.csprojResolveAssemblyReference.cache
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\bin\Debug\Entitites.dll.config
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\bin\Debug\Entitites.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\bin\Debug\Entitites.pdb
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\bin\Debug\LinqToExcel.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\bin\Debug\log4net.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\bin\Debug\Remotion.Data.Linq.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\bin\Debug\Remotion.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\bin\Debug\Remotion.Interfaces.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\bin\Debug\LinqToExcel.xml
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\bin\Debug\log4net.xml
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\obj\Debug\EntititesExcel.csprojResolveAssemblyReference.cache
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\obj\Debug\Entitites.dll
+C:\Leo\ProyectosGit\ConsoleLinqToExcel\Entitites\obj\Debug\Entitites.pdb
