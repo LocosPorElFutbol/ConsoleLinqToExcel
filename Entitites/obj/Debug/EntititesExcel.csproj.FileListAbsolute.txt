@@ -1,0 +1,13 @@
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\bin\Debug\Entitites.dll.config
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\bin\Debug\Entitites.dll
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\bin\Debug\Entitites.pdb
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\bin\Debug\LinqToExcel.dll
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\bin\Debug\log4net.dll
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\bin\Debug\Remotion.dll
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\bin\Debug\Remotion.Interfaces.dll
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\bin\Debug\LinqToExcel.xml
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\bin\Debug\log4net.xml
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\obj\Debug\Entitites.dll
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\obj\Debug\Entitites.pdb
+C:\Users\zz826365\Documents\Visual Studio 2013\Projects\ConsoleLinqToExcel\Entitites\obj\Debug\EntititesExcel.csprojResolveAssemblyReference.cache
