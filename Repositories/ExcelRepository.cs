@@ -26,7 +26,6 @@ namespace RepositoriesExcel
                                select p;
 
                 return personas.ToList();
-                //return personas;
             }
             catch (Exception ex)
             {
