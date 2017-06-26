@@ -8,8 +8,8 @@
     <ProjectGuid>{6FE224EF-257F-4993-AAFE-D6E5A5F5CAB0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Business</RootNamespace>
-    <AssemblyName>Business</AssemblyName>
+    <RootNamespace>BusinessExcel</RootNamespace>
+    <AssemblyName>BusinessExcel</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

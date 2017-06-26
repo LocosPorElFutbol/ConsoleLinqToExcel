@@ -8,8 +8,8 @@
     <ProjectGuid>{717C8740-799F-4542-AE0F-5B5196CF7528}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Entitites</RootNamespace>
-    <AssemblyName>Entitites</AssemblyName>
+    <RootNamespace>EntititesExcel</RootNamespace>
+    <AssemblyName>EntititesExcel</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

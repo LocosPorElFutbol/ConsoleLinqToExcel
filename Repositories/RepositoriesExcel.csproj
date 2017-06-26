@@ -8,8 +8,8 @@
     <ProjectGuid>{B4D2BCB6-522D-4F99-9693-8BCD624F2666}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Repositories</RootNamespace>
-    <AssemblyName>Repositories</AssemblyName>
+    <RootNamespace>RepositoriesExcel</RootNamespace>
+    <AssemblyName>RepositoriesExcel</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
