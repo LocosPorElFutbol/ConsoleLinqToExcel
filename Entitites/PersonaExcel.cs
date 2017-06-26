@@ -15,7 +15,7 @@ namespace EntititesExcel
         public DateTime? fechaDeIngreso { get; set; }
 
         [ExcelColumn("Actualizado")]
-        public DateTime actualizado { get; set; }
+        public DateTime? actualizado { get; set; }
 
         [ExcelColumn("Titulo")]
         public string titulo { get; set; }
@@ -60,7 +60,7 @@ namespace EntititesExcel
         public string email { get; set; }
 
         [ExcelColumn("Nacimiento")]
-        public DateTime nacimiento { get; set; }
+        public DateTime? nacimiento { get; set; }
 
         [ExcelColumn("Dia de Cumpleaños")]
         public int diaCumpleanios { get; set; }
@@ -93,7 +93,7 @@ namespace EntititesExcel
         public string cuitCuilConyuge { get; set; }
 
         [ExcelColumn("Nacimiento Conyuge")]
-        public DateTime nacimientoConyuge { get; set; }
+        public DateTime? nacimientoConyuge { get; set; }
 
         [ExcelColumn("NACIONALIDAD CONYUGE")]
         public string nacionalidadConyuge { get; set; }

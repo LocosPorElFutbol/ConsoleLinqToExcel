@@ -16,7 +16,7 @@ namespace ConsoleLinqToExcel
             listaPersonas = CargarLista();
             foreach (var p in listaPersonas)
             {
-                Console.WriteLine("Nombre: " + p.nombreCompleto + ", " + p.apellido);
+                Console.WriteLine("Nombre: " + p.nombreCompleto + ", " + p.apellido + " Cumple dia: " + p.diaCumpleanios);
             }
 
             Console.ReadKey();
@@ -27,7 +27,7 @@ namespace ConsoleLinqToExcel
             try
             {
 
-                ExcelBusiness excelBusiness = new ExcelBusiness("C:\\Leo\\Temp\\BASE DE DATOS - CUMPLEAÑOS (ACTUAL)Import.xlsx");
+                ExcelBusiness excelBusiness = new ExcelBusiness("C:\\Leo\\Dropbox\\Desarrollos\\Librerias\\ImportarExcel\\Pruebas\\BASE DE DATOS - CUMPLEAÑOS (ACTUAL).xlsx");
                 List<PersonaExcel> lista = (List<PersonaExcel>)excelBusiness.RetornarRowExcel("BASE TOTAL DE CLIENTES CUMPLE");
 
                 foreach (PersonaExcel persona in lista)
